@@ -101,7 +101,7 @@ Make sure to configure .env for both frontend and backend with the appropriate U
 
 - Removed redundant code blocks.
 
-- Assisted in debugging API response issues and form logic.
+- Assisted in debugging API response issues.
 
 
 ## 📎 Extra Notes
