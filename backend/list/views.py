@@ -69,14 +69,6 @@ class Hotel:
 ckin = (datetime.now() + timedelta(days=3)).strftime('%Y-%m-%d')
 ckot = (datetime.now() + timedelta(days=5)).strftime('%Y-%m-%d')
 
-def home (request):
-    hotel_info_list = []
-    if 'city' in request.GET:
-        product = request.GET.get('city')
-        html_content = get_content(product)
-        soup = BeautifulSoup(html_content, 'html.parser')
-    hotel_items = soup.find_all()
-    return render(request, 'home.html')
 
 
 def get_content(location, checkin="2025-08-08", checkout="2025-08-12"):
