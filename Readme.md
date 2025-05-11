@@ -1,4 +1,4 @@
-# 🏨 Hotel Finder Web Application
+# 🏨 Hotel Hunter
 
 A full-stack hotel search and bookmarking app that fetches real-time hotel data from external sources like Booking.com. Built using Django (DRF) for the backend and React with Tailwind CSS for the frontend. Users can search hotels, filter results by rating, bookmark listings, and interact with the app using secure JWT authentication.
 
