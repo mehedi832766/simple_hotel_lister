@@ -18,8 +18,9 @@ A full-stack hotel search and bookmarking app that fetches real-time hotel data 
 ## 🎥 Sample Demo Video
 
 Watch a short walkthrough of the application in action:
+[Screencast from 2025-05-06 11-30-59.webm](https://github.com/user-attachments/assets/e89a7b8d-2029-49c7-a33f-ab025db1d339)
 
-https://github.com/user-attachments/assets/1203ab84-b487-42a6-a92d-34982eac8b49
+
 
 
 ---
